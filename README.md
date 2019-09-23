@@ -107,5 +107,5 @@ Masukkan data pada bagian sebagai berikut:
 <br>
 ![contoh3](https://raw.githubusercontent.com/febiandika/Analytic-Model-Deployment/master/Capture5.PNG)
 <br>
-7. Melihat output pada bagian sebagai berikut:
+7. Klik Send dan lihat output pada bagian sebagai berikut:
 ![contoh4](https://raw.githubusercontent.com/febiandika/Analytic-Model-Deployment/master/Capture6.PNG)
