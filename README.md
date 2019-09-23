@@ -35,20 +35,21 @@ Untuk membuat suatu model deployment, digunakan pythonanywhere untuk membuat ser
 
 5. Selanjutnya, pilih tab Body -> raw -> JSON(application/json) seperti berikut:
 
-6. Masukan data yang akan diuji. Data dibentuk menjadi bentuk JSON dengan cara sebagai berikut :
+6. Masukan data yang akan diuji. Data dibentuk menjadi bentuk JSON dengan menuliskan data dengan cara sebagai berikut :
 * **Untuk 1 input data**
 <br>
 {		
-<br>		
     "PAY_AMT1":1000,
-<br>		
     "PAY_AMT2":1500,
-<br>		
     "PAY_AMT3":1000
-<br>
 }
-* **Untuk lebih dari 1 input data (dalam contoh ini 10 data)**
-{		
+<br>
+* **Untuk lebih dari 1 input data (dalam contoh ini 10 data dan untuk lebih jelasnya bisa dilihat di file dataset.txt)**
+[{
+		"PAY_AMT1":1000,
+		"PAY_AMT2":1500,
+		"PAY_AMT3":1000
+{
 		"PAY_AMT1":2000,
 		"PAY_AMT2":1500,
 		"PAY_AMT3":2400
@@ -93,3 +94,9 @@ Untuk membuat suatu model deployment, digunakan pythonanywhere untuk membuat ser
 		"PAY_AMT2":1460,
 		"PAY_AMT3":2340
 }]
+<br>
+Catatan : Nilai diatas hanya contoh, bisa diganti sesuai dengan data yang dimiliki pengguna.
+<br>
+Masukkan data pada bagian sebagai berikut:
+<br>
+7. Melihat output pada bagian sebagai berikut:
