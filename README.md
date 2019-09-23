@@ -40,11 +40,11 @@ Untuk membuat suatu model deployment, digunakan pythonanywhere untuk membuat ser
 6. Masukan data yang akan diuji. Data dibentuk menjadi bentuk JSON dengan menuliskan data dengan cara sebagai berikut :
 * **Untuk 1 input data**
 <br>
-{		
+[{
     "PAY_AMT1":1000,
     "PAY_AMT2":1500,
     "PAY_AMT3":1000
-}
+}]
 <br>
 <br>
 
