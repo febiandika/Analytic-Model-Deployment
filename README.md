@@ -100,6 +100,7 @@ Untuk membuat suatu model deployment, digunakan pythonanywhere untuk membuat ser
 		"PAY_AMT3":2340
 }]
 <br>
+<br>
 Catatan : Nilai diatas hanya contoh, bisa diganti sesuai dengan data yang dimiliki pengguna.
 <br>
 Masukkan data pada bagian sebagai berikut:
