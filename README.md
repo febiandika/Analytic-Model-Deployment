@@ -104,7 +104,7 @@ Catatan : Nilai diatas hanya contoh, bisa diganti sesuai dengan data yang dimili
 <br>
 Masukkan data pada bagian sebagai berikut:
 <br>
-![contoh3](https://raw.githubusercontent.com/febiandika/Analytic-Model-Deployment/master/Capture5.png)
+![contoh3](https://raw.githubusercontent.com/febiandika/Analytic-Model-Deployment/master/Capture5.PNG)
 <br>
 7. Melihat output pada bagian sebagai berikut:
-![contoh4](https://raw.githubusercontent.com/febiandika/Analytic-Model-Deployment/master/Capture6.png)
+![contoh4](https://raw.githubusercontent.com/febiandika/Analytic-Model-Deployment/master/Capture6.PNG)
