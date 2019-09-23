@@ -12,6 +12,7 @@ Variabel yang digunakan untuk melakukan penghitungan credit scoring adalah:
 Output yang dihasilkan ada 2, yaitu:
 <br>
 0: Pelanggan diprediksi tidak akan telat melakukan pembayaran kredit
+<br>
 1: Pelanggan diprediksi akan telat melakukan pembayaran kredit
 
 ## 2. Make server on pythonanywhere
@@ -25,9 +26,10 @@ Untuk membuat suatu model deployment, digunakan pythonanywhere untuk membuat ser
 1. Pertama kali, gunakan google chrome untuk menggunakan postman. Hal ini dikarenakan postman yang akan digunakan merupakan ekstensi dari google chrome.
 2. Install ekstensi postman pada google chrome dengan menggunakan keyword 'postman chrome'.
 3. Setelah terinstall jalankan aplikasi postman sehingga muncul tampilan sebagai berikut.
-
+![contoh](https://raw.githubusercontent.com/febiandika/Analytic-Model-Deployment/master/Capture1.PNG)
 4. Lalu, pilih 'POST' pada kotak berwarna merah dan pada kotak berwarna biru isikan alamat API saya : http://febiandika12.pythonanywhere.com/api
-5. Selanjutnya, pilih tab Body -> raw -> JSON(application/json)
+![contoh1](https://raw.githubusercontent.com/febiandika/Analytic-Model-Deployment/master/Capture3.png)
+5. Selanjutnya, pilih tab Body -> raw -> JSON(application/json) seperti berikut:
 6. Masukan data yang akan diuji dengan cara sebagai berikut :
 * **Untuk 1 input data**
 * **Untuk lebih dari 1 input data**
