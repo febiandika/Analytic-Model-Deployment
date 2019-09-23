@@ -35,6 +35,8 @@ Untuk membuat suatu model deployment, digunakan pythonanywhere untuk membuat ser
 
 5. Selanjutnya, pilih tab Body -> raw -> JSON(application/json) seperti berikut:
 
+![contoh2](https://raw.githubusercontent.com/febiandika/Analytic-Model-Deployment/master/Capture4.png)
+
 6. Masukan data yang akan diuji. Data dibentuk menjadi bentuk JSON dengan menuliskan data dengan cara sebagai berikut :
 * **Untuk 1 input data**
 <br>
@@ -44,7 +46,10 @@ Untuk membuat suatu model deployment, digunakan pythonanywhere untuk membuat ser
     "PAY_AMT3":1000
 }
 <br>
+<br>
+
 * **Untuk lebih dari 1 input data (dalam contoh ini 10 data dan untuk lebih jelasnya bisa dilihat di file dataset.txt)**
+<br>
 [{
 		"PAY_AMT1":1000,
 		"PAY_AMT2":1500,
@@ -99,4 +104,7 @@ Catatan : Nilai diatas hanya contoh, bisa diganti sesuai dengan data yang dimili
 <br>
 Masukkan data pada bagian sebagai berikut:
 <br>
+![contoh3](https://raw.githubusercontent.com/febiandika/Analytic-Model-Deployment/master/Capture5.png)
+<br>
 7. Melihat output pada bagian sebagai berikut:
+![contoh3](https://raw.githubusercontent.com/febiandika/Analytic-Model-Deployment/master/Capture6.png)
